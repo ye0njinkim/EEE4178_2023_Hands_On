@@ -4,4 +4,4 @@
 
 ---
 **Day1_2022 To Colab**　　　　　　　　
-<a href="https://colab.research.google.com/github/mallang327/EEE4178-Hands-On/blob/main/Day1_2022.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://github.com/ye0njinkim/EEE4178_2023_Hands_On/blob/main/Day1_2022.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
